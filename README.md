@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html lang="vi">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Lê Thanh Tín - Giới Thiệu</title>
+<title>Lê Thanh Tín - Giới Thiệu</title>
     <style>
         body {font-family: Arial, sans-serif;margin: 0; padding: 0;background: linear-gradient(135deg, #1e90ff, #00c6ff); text-align: center; }
         header { background: #007bff;color: white; padding: 25px 0; box-shadow: 0 4px 10px rgba(0,0,0,0.2);}
@@ -18,7 +13,6 @@
         footer {margin-top: 30px;padding: 15px;background: #007bff;color: white;}
         .phone {font-weight: bold;color: #007bff;font-size: 18px;}
     </style>
-</head>
 <body>
 <header>
     <h1>Xin Chào, Tôi Là Lê Thanh Tín 👋</h1>
